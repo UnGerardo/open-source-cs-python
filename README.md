@@ -6,15 +6,15 @@ This is a curated list of free courses from reputable universities like MIT, Sta
 
 Courses | School | Duration | Effort | Frequency | Prerequisites
 :-- | :--: | :--: | :--: | :--: | :--:
-[Intro to Computer Science](https://www.edx.org/course/cs50s-introduction-computer-science-harvardx-cs50x) | Harvard | 10 weeks | 10-20 hours/week | self-paced | none
+[Intro to Computer Science](https://www.edx.org/course/cs50s-introduction-computer-science-harvardx-cs50x)| Harvard | 10 weeks | 10-20 hours/week | self-paced | none
 [Mathematical Thinking in Computer Science](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fwhat-is-a-proof) | UC San Diego | 6 weeks | 2-5 hours/week | once a month | none
 
 ## Programming
 
 Courses | School | Duration | Effort | Frequency | Prerequisites
 :-- | :--: | :--: | :--: | :--: | :--:
-[Programming for Everybody (Getting Started with Python)](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fpython) - In Progress| University of Michigan | 4 weeks | 4-6 hours/week | self-paced | none
-[Python Data Structures](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fpython-data)| University of Michigan | 4 weeks | 4-6 hours/week | self-paced | Programming for Everybody (Getting Started with Python)
+~~[Programming for Everybody (Getting Started with Python)](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fpython)~~ - Done | ~~University of Michigan~~ | ~~7 weeks~~ | ~~4-6 hours/week~~ | ~~self-paced~~ | ~~none~~
+[Python Data Structures](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fpython-data) - In Progress | University of Michigan | 4 weeks | 4-6 hours/week | self-paced | Programming for Everybody (Getting Started with Python)
 [Using Python to Access Web Data](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fpython-network-data)| University of Michigan | 4 weeks | 4-6 hours/week | self-paced | Python Data Structures
 [Using Databases with Python](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fpython-databases)| University of Michigan | 3 weeks | 4-8 hours/week | self-paced | Using Python to Access Web Data
 [Capstone: Retrieving, Processing, and Visualizing Data with Python](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fpython-data-visualization) | University of Michigan | 2 weeks | 4-6 hours/week | self-paced | Using Databases with Python
